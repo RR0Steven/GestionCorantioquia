@@ -1,0 +1,50 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #8cc63f;
+}
+.container-fluid {
+    background-color: #8cc63f;
+   
+}
+  
+.modal-header {
+  background-color: #8cc63f;
+}
+
+.modal-footer {
+  background-color: #0F283C;
+}
+
+.modal-content {
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+  }
+/*---------------------------------------------------*/
+  table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+    color: black;
+}
+
+thead {
+    background-color: #003366;
+    color: white;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}

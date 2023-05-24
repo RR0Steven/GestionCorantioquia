@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+	nodeserver:
+		build:
+			context: ./
+		container_name: nodeserver
+		ports:
+			- "3000:3000"
+
+//docker compose up --build
+//docker compose up -d
